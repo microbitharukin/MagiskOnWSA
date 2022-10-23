@@ -1,4 +1,4 @@
-name: Build WSA
+name: WSA No Customise
 on:
   push:
     paths-ignore:
